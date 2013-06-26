@@ -1,0 +1,991 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "11/6/2007">
+	<sitename>Album de fotos do Hotel CAstelo </sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "110_4397.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4397.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4398.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4398.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4399.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4399.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4400.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4400.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4401.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4401.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4402.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4402.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4403.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4403.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4404.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4404.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4405.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4405.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4406.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4406.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4407.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4407.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4408.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4408.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4409.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4409.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4410.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4410.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4411.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4411.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4412.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4412.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4413.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4413.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4414.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4414.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4415.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4415.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4416.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4416.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4417.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4417.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4418.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4418.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4419.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4419.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4420.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4420.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4421.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4421.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4422.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4422.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4423.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4423.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4424.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4424.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4425.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4425.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4426.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4426.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4427.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4427.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4428.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4428.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4429.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4429.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4430.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4430.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4431.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4431.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4432.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4432.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4433.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4433.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4434.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4434.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4435.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4435.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4436.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4436.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4437.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4437.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4438.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4438.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4439.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4439.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4440.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4440.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4441.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4441.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4442.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4442.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4443.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4443.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4444.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4444.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4445.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4445.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4446.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4446.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4447.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4447.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4448.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4448.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4449.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4449.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4450.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4450.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4451.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4451.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4452.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4452.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4453.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4453.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4454.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4454.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4455.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4455.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4456.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4456.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4457.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4457.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4458.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4458.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4459.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4459.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4460.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4460.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4461.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4461.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4462.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4462.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4463.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4463.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4464.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4464.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4465.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4465.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4466.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4466.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4467.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4467.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4468.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4468.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4469.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4469.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4470.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4470.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4471.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4471.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4472.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4472.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4473.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4473.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4474.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4474.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4475.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4475.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4476.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4476.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4477.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4477.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4478.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4478.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4479.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4479.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4480.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4480.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4481.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4481.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4482.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4482.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4483.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4483.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4484.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4484.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4485.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4485.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4486.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4486.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4487.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4487.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4488.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4488.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4489.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4489.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4490.jpg"
+width = "400"
+height = "298"
+thumbpath = "110_4490.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4491.jpg"
+width = "400"
+height = "300"
+thumbpath = "110_4491.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "110_4492.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4492.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "110_4493.jpg"
+width = "300"
+height = "400"
+thumbpath = "110_4493.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+</images>
+</gallery>
